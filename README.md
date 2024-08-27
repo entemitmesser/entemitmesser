@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moritz
 - 👀 I’m interested in web scraping, discord bots and parkour
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Rust
 
 
 <!---
